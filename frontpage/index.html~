@@ -126,7 +126,7 @@ Although you can use them, for a more unique website, replace these images with 
                 	<a href="#" class="btn btn-default btn-lg">Join It</a>
                 </div>    
                 <div class="col-sm-6">
-                    <img class="img-responsive img-circle center-block" src="images/iphone.jpg" alt="">
+                    <img class="img-responsive img-circle center-block" src="images/friends.jpg" alt="">
                 </div>            
                 
             </div>
@@ -164,9 +164,9 @@ Although you can use them, for a more unique website, replace these images with 
 	<!-- Content 3 -->
      <section class="content content-3">
         <div class="container">
-			<h2 class="section-header"><span class="glyphicon glyphicon-pushpin text-primary"></span><br> Sanity Check</h2>
-			<p class="lead text-muted">Holisticly predominate extensible testing procedures for reliable supply chains. Dynamically innovate resource-leveling customer service for state of the art customer service.</p> 
-                    <a href="#" class="btn btn-primary btn-lg">Check Now</a>               
+			<h2 class="section-header"><span class="glyphicon glyphicon-pushpin text-primary"></span><br> Chat</h2>
+			<p class="lead text-muted">Diversity</p> 
+                    <a href="#" class="btn btn-primary btn-lg">Chat Now</a>               
             </div>
         </div>
     </section>

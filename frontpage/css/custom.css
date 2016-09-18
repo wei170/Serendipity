@@ -102,15 +102,19 @@ header .header-content .header-content-inner p {
 }
 
 .content {
+	 color: black;
+    background-color: #eeeeff;
     padding: 100px 0;
 }
 
 .content-2 {
-	color: #fff;
-    background-color: #222;
+	color: white;
+    background-color: mediumslateblue;
 }
 
 .content-3 {
+	   color:black;
+background-color:white;
 	padding: 20px 0 40px;
 	text-align: center;
 }
@@ -169,7 +173,7 @@ header .header-content .header-content-inner p {
 
 .page-footer .contact {
 	padding: 100px 0;
-	background-color: slateblue;
+	background-color: mediumslateblue;
 	color: #fff;
 	}
 
@@ -202,7 +206,7 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: yellowgreen;
+    color: mediumslateblue;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -217,12 +221,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: yellowgreen;
+    color: mediumslateblue;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: yellowgreen!important;
+    color: mediumslateblue!important;
     background-color: transparent;
 }
 
@@ -265,7 +269,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: yellowgreen;
+        color: mediumslateblue;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -280,7 +284,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: yellowgreen;
+        color: mediumslateblue;
     }
 }
 
