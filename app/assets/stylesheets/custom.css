@@ -28,7 +28,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('/assets/images/header.jpg');
+    background-image: url('header.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -149,15 +149,15 @@ background-color:white;
 }
 
 .item-1 {
-	background: url('../images/writing.jpg');
+	background: url('writing.jpg');
 	}
 	
 .item-2 {
-	background: url('../images/concert.jpg');
+	background: url('concert.jpg');
 	}
 	
 .item-3 {
-	background: url('../images/pencil_sharpener.jpg');
+	background: url('pencil_sharpener.jpg');
 	}
 		
 .item-1,
